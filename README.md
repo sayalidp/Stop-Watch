@@ -16,4 +16,4 @@ CSS – Styling for adaptive and modern look
 Click Start to begin timing
 Click Stop to pause
 Click Reset to clear the time
-(Optional: Use the Lap button to record intervals)
+
